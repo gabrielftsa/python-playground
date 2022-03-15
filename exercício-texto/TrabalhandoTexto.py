@@ -36,8 +36,8 @@ def media_notas(nome_arquivo):  # Aqui serão separados números de letras para 
         lista_media.append({aluno: media(lista_media)})
     return lista_media
 
-def move_arquivo(nome_arquivo):
-    shutil.move(nome_arquivo, '')
+# def move_arquivo(nome_arquivo): # Exemplo de como seria usado o shutil
+#     shutil.move(nome_arquivo, '') # Dentro das aspas simples ficaria o destino do arquivo
 
 if __name__ == '__main__':
     lista_media = media_notas('notas.txt')
