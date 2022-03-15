@@ -1,0 +1,6 @@
+Bolsonaro,2,3,1,5
+Tiririca,10,10,9,9
+Nando Moura,3,2,2,0
+Arthur do Val,10,10,0,0
+Pericles,10,8,10,8
+Michael Jackson,10,10,10,0
